@@ -28,6 +28,16 @@ A planilha calculará automaticamente os resultados com base nas informações f
 - Dividendos mensais estimados ao longo do tempo
 - Sugestão de tipos de FIIs para investir conforme o perfil do usuário
 
+## 🖼 Capturas de tela
+
+> As imagens estão localizadas na pasta /images deste repositório.
+
+### Visão geral da simulação
+![Simulação](images/simulacao-geral.png)
+
+### Perfil de investidor
+![Perfil de Investidor](images/perfil-investidor.png)
+
 ## 📁 Arquivo
 
 O arquivo principal do projeto está neste repositório:
